@@ -8,8 +8,8 @@
   ],
   "repositories": [
     {
-      "type": "composer",
-      "url": "http://0.0.0.0:3333/"
+      "type": "vcs",
+      "url": "https://github.com/glaubinix/composer-dist-type-bug"
     }
   ],
   "config": {

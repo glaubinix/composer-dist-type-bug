@@ -9,7 +9,10 @@
   "repositories": [
     {
       "type": "composer",
-      "url": "http://0.0.0.0:3333/"
+      "url": "https://repo.packagist.com/littlecubiclegames801567/"
+    },
+    {
+      "packagist.org": false
     }
   ],
   "config": {

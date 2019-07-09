@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1ed5425e6b3ddf88ee144ce793f628b8",
+    "content-hash": "2c0fae1fe53212ce1db3d75023ad4306",
     "packages": [
         {
             "name": "pcom-test-group/test-repo141421",
@@ -16,9 +16,15 @@
             },
             "dist": {
                 "type": "tar",
-                "url": "http://0.0.0.0:3333/dist/pcom-test-group/test-repo141421/pcom-test-group-test-repo141421-d26c8f48561fb237af5789a0c329866df41eae17-zip-2cf1fc.tar",
+                "url": "https://api.github.com/repos/pcom-test-group/test-repo/zipball/d26c8f48561fb237af5789a0c329866df41eae17",
                 "reference": "d26c8f48561fb237af5789a0c329866df41eae17",
-                "shasum": "ae8147f5a01ee8336bf99ffd78f123c089dd132a"
+                "shasum": "ae8147f5a01ee8336bf99ffd78f123c089dd132a",
+                "mirrors": [
+                    {
+                        "url": "https://repo.packagist.com/littlecubiclegames801567/dists/%package%/%version%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
             },
             "type": "library",
             "authors": [

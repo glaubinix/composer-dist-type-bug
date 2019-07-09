@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "1ed5425e6b3ddf88ee144ce793f628b8",
+    "packages": [
+        {
+            "name": "pcom-test-group/test-repo141421",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pcom-test-group/test-repo.git",
+                "reference": "d26c8f48561fb237af5789a0c329866df41eae17"
+            },
+            "dist": {
+                "type": "tar",
+                "url": "http://0.0.0.0:3333/dist/pcom-test-group/test-repo141421/pcom-test-group-test-repo141421-d26c8f48561fb237af5789a0c329866df41eae17-zip-2cf1fc.tar",
+                "reference": "d26c8f48561fb237af5789a0c329866df41eae17",
+                "shasum": "ae8147f5a01ee8336bf99ffd78f123c089dd132a"
+            },
+            "type": "library",
+            "authors": [
+                {
+                    "name": "Stephan Vock",
+                    "email": "stephan.vock@gmail.com"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/pcom-test-group/test-repo/tree/master",
+                "issues": "https://github.com/pcom-test-group/test-repo/issues"
+            },
+            "time": "2017-03-15T13:44:58+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "pcom-test-group/test-repo141421": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

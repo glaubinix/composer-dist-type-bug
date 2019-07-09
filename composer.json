@@ -1,0 +1,21 @@
+{
+  "name": "glaubinix/composer-test",
+  "authors": [
+    {
+      "name": "Stephan Vock",
+      "email": "stephan.vock@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://0.0.0.0:3333/"
+    }
+  ],
+  "config": {
+    "secure-http": false
+  },
+  "require": {
+    "pcom-test-group/test-repo141421": "dev-master"
+  }
+}
